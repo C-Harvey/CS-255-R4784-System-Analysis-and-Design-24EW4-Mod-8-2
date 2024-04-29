@@ -1,0 +1,6 @@
+The DriverPass project is a project envisioned by Liam, who saw a lack of an online driver training experience and wanted to capitalize on it. Liam wanted an online presence for people to learn how to drive and schedule appointments for driving lessons with ease.
+I was able to quickly analyze the requirements for DriverPass and mirror the requirements to UML charts.
+If I could redo the requirements I would. I feel like a second attempt would achieve a better result. I misunderstood what was being asked. I would do everything differently with it and approach it with the appropriate mindset.
+I was able to read the transcript and make notes of all the keywords and derivatives included. If someone mentioned a user, I would also think of user account control and hierarchy. It is easier to read transcripts like a bullet point list.
+It is important to consider user needs to ensure the user keeps a good reputation with the company providing the service. Good reputation and good work can spread, which means more business.
+When creating anything, it is good to whiteboard the entire project and get a general idea of what everything is before you make it. Being able to see everything beforehand prevents costly revisions and promotes direction and efficiency.
